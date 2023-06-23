@@ -1,0 +1,37 @@
+td.mes {
+    border: 5px solid black;
+    padding-bottom: 130px;
+    padding-left: 65px;
+    padding-right: 65px;
+    text-align: center;
+}
+  th {
+    border: 5px  solid black;
+    padding: 10px;
+  }
+  td.sem {
+    border: 5px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  body {
+    background-color: #fff;
+  }
+  #lal {
+    background-color: rgb(80, 77, 73);
+  }
+  #t {
+    background-color: rgb(107, 131, 209);
+  }
+  #mes {
+    background-color: rgb(139, 137, 132);
+  }
+  #sem {
+    background-color: rgb(136, 134, 128);
+  }
+  div {
+    border: 2px solid black;
+  }
+  table {
+    border: 3px solid black;
+  }
